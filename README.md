@@ -1,16 +1,22 @@
-# product_quote_builder
+# 🧾 Product Quote Builder  
 
-A new Flutter project.
+A **Flutter-based Product Quote Builder** that allows users to create professional quotations for products or services.  
+Users can add client details, include multiple line items dynamically, and view real-time total calculations — all within a clean, responsive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Features  
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Client Information Form** – Add client name, address, and reference  
+✅ **Dynamic Line Items** – Add or remove multiple products or services  
+✅ **Real-Time Calculations** – Auto-calculates per-item total, subtotal, and grand total  
+✅ **Responsive UI** – Works smoothly on mobile, tablet, and desktop screens  
+✅ **Quote Preview Screen** – Displays the completed quote in a professional layout  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Installation & Setup  
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/product_quote_builder.git
